@@ -1,0 +1,87 @@
+body{
+background-image: url();
+}
+.container{
+    height: 300px;
+    width: 900px;
+    background-color:black;
+    margin: 180px 380px 100px 380px;
+    
+}
+.container2{
+    height: 200px;
+    width: 900px;
+    display: flex;
+    background-color: black;
+}
+.container3{
+    height: 100px;
+    width: 870px;
+    display: flex;
+    background-color: black;
+    /* padding-top: 500px; */
+    top: 550;
+    margin-left: 27px;
+}
+.common-font{
+    font-size: 145px;
+    color: rgb(251, 251, 252);
+}
+.dot{
+    font-size: 115px;
+    color: rgb(251, 251, 252); 
+    padding-top: 950px;
+}
+.line1{
+    top: 552px;
+    left: 550px;
+}
+#hour{
+padding: 150px 20px 100px 50px;
+}
+#minute{
+    padding: 150px 20px 100px 20px;
+}
+#sec{
+    padding: 150px 37px 100px 25px;
+}
+#d_n{
+    font-size: 100px;
+    color: rgb(251, 251, 252);
+    padding: 0px 20px 500px 20px;
+    margin: 0px 0px 88px 0px;
+}
+#date{
+    font-size: 50px;
+    color: white;
+    padding: 5px 0px 0px 50px;
+    margin: 0px 0px 10px 30px;
+}
+#month{
+    font-size: 50px;
+    color: rgb(251, 251, 252);
+    padding: 5px 0px 0px 50px;
+    margin: 0px 0px 10px 10px;
+}
+#year{
+    font-size: 50px;
+    color: rgb(251, 251, 252);
+    padding: 5px 0px 0px 50px;
+    margin: 0px 0px 10px 10px;
+}
+#day{
+    font-size: 50px;
+   color: rgb(251, 251, 252);
+   padding: 5px 0px 20px 50px;
+   margin: 0px 0px 30px 10px;
+}
+.hour-type1{
+    margin: 0px 0px 50px 280px;
+}
+.hour-type2{
+    margin: 0px 0px 50px 90px;
+}
+.type-hour{
+    color: white;
+    font-size: 20px;
+}
