@@ -1,2 +1,2 @@
 # Digital-Clock
-Making a digital clock by using html , css and javascript 
+i will made a Digital Clock website by using html , css and javascript
